@@ -126,7 +126,7 @@ export class LocalizacaoService {
             cidade: endereco.cidade,
             estado: endereco.estado,
             latitude: localizacao.latitude,
-            longetude: localizacao.longitude
+            longitude: localizacao.longitude
         }
     }
 }
